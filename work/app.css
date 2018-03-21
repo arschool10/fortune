@@ -1,0 +1,49 @@
+/* おみくじアプリのスタイル */
+
+/* メイン画面のレイアウト */
+.main {
+  background-color: #81DAF5;
+  border-color: black;
+}
+
+
+/* クリックできるボタン */
+.btn {
+  border-color: black;
+}
+
+/* ベージュのボタンの背景 */
+.btn-beige {
+  background-color: #FAAC58;
+}
+
+/* ベージュのボタンマウスオーバー時の背景 */
+.btn-beige:hover {
+  background-color: #D358F7;
+}
+
+/* 赤いボタンの背景 */
+.btn-red {
+  background-color: #F4FA58;
+}
+
+/* 赤いボタンマウスオーバー時の背景 */
+.btn-red:hover {
+  background-color: #0101DF;
+}
+
+/* ボタン中のテキストを縦横中央に設置 */
+.btn>p {
+  color: black;
+}
+
+/* ボタン中のヘッダ２を縦横中央に設置 */
+.btn>h2 {
+  color: black;
+}
+
+/* 結果等を表示する枠 */
+.panel {
+  background-color: #fff8dc;
+  border-color:black;
+}

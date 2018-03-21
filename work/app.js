@@ -127,7 +127,7 @@ let miseruOmikujiKekka = () => {
   kakusuPanel(omikujiImage);
   
   //タイトル画面のおみくじ画像を設定する
-  setteiHomeImage(`keikyuiebururejpg`);
+  setteiHomeImage('keikyuieburure.jpg');
   
   //おみくじの中身の数までが出るサイコロをふる
   let saikoroKekka = furuSaikoro(omikujiNakami.length);
@@ -161,7 +161,7 @@ let hikuOmikuji = () => {
   //0.1秒で画像を変えるルーレットのアニメーションを開始する
   let rouletteTimer = kurikaesuTimer(miseruRoulette,100);
   
-  // 3秒待って結果を表示する
+  // 5秒待って結果を表示する
   matsuTimer(()=>{
     // ルーレットのタイマーを止める
     tomeruTimer(rouletteTimer);
@@ -169,7 +169,7 @@ let hikuOmikuji = () => {
     // おみくじの結果を見せる
     miseruOmikujiKekka();
 
-  },3000); // 3000ミリ秒=3秒に設定
+  },5000); // 5000ミリ秒=5秒に設定
 }
 
 //読み込み終わったら初期設定を実行する
