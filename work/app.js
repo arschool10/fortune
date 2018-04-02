@@ -20,99 +20,103 @@ let shokiSettei = () => {
 let omikujiNakami = [
   { // 吉の設定
     kekkaTitle: '吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '何かいいことがあるかも', // おみくじの結果につける説明文
+    kekkaSetsumei: '吉っす。何かいいことがあるかも', // おみくじの結果につける説明文
     kekkaImage: 'buru600.jpg' //おみくじの結果に表示する画像
   },
   { // 吉の設定
     kekkaTitle: '吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '何かいいことがあるかも', // おみくじの結果につける説明文
+    kekkaSetsumei: '吉っす。何かいいことがあるかも', // おみくじの結果につける説明文
     kekkaImage: 'buru600.jpg' //おみくじの結果に表示する画像
   },
   { // 吉の設定
     kekkaTitle: '吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '何かいいことがあるかも', // おみくじの結果につける説明文
+    kekkaSetsumei: '吉っす。何かいいことがあるかも', // おみくじの結果につける説明文
     kekkaImage: 'buru600.jpg' //おみくじの結果に表示する画像
   },
   { // 吉の設定
     kekkaTitle: '吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '何かいいことがあるかも', // おみくじの結果につける説明文
+    kekkaSetsumei: '吉っす。何かいいことがあるかも', // おみくじの結果につける説明文
+    kekkaImage: 'buru600.jpg' //おみくじの結果に表示する画像
+  },
+  { // 吉の設定
+    kekkaTitle: '吉', // おみくじの結果のタイトル文
+    kekkaSetsumei: '吉っす。何かいいことがあるかも', // おみくじの結果につける説明文
     kekkaImage: 'buru600.jpg' //おみくじの結果に表示する画像
   },
   { // 凶の設定
     kekkaTitle: '凶', // おみくじの結果のタイトル文
-    kekkaSetsumei: '何もかも気を付けて', // おみくじの結果につける説明文
+    kekkaSetsumei: '凶ねー。何もかも気を付けて', // おみくじの結果につける説明文
     kekkaImage: 'brusin1000.jpg' //おみくじの結果に表示する画像
   },
     { // 凶の設定
     kekkaTitle: '凶', // おみくじの結果のタイトル文
-    kekkaSetsumei: '何もかも気を付けて', // おみくじの結果につける説明文
+    kekkaSetsumei: '凶ねー。何もかも気を付けて', // おみくじの結果につける説明文
     kekkaImage: 'brusin1000.jpg' //おみくじの結果に表示する画像
   },
   { // 凶の設定
     kekkaTitle: '凶', // おみくじの結果のタイトル文
-    kekkaSetsumei: '何もかも気を付けて', // おみくじの結果につける説明文
+    kekkaSetsumei: '凶ねー。何もかも気を付けて', // おみくじの結果につける説明文
     kekkaImage: 'brusin1000.jpg' //おみくじの結果に表示する画像
   },
    { // 凶の設定
     kekkaTitle: '凶', // おみくじの結果のタイトル文
-    kekkaSetsumei: '何もかも気を付けて', // おみくじの結果につける説明文
+    kekkaSetsumei: '凶ねー。何もかも気を付けて', // おみくじの結果につける説明文
     kekkaImage: 'brusin1000.jpg' //おみくじの結果に表示する画像
   },
     { //大凶の設定
     kekkaTitle: '大凶', // おみくじの結果のタイトル文
-    kekkaSetsumei: '残念またがんば', // おみくじの結果につける説明文
+    kekkaSetsumei: '大凶かー。残念またがんば', // おみくじの結果につける説明文
     kekkaImage: 'red1500.jpg' //おみくじの結果に表示する画像
   },
     { //大凶の設定
     kekkaTitle: '大凶', // おみくじの結果のタイトル文
-    kekkaSetsumei: '残念またがんば', // おみくじの結果につける説明文
+    kekkaSetsumei: '大凶かー。残念またがんば', // おみくじの結果につける説明文
     kekkaImage: 'red1500.jpg' //おみくじの結果に表示する画像
   },
    { //大凶の設定
     kekkaTitle: '大凶', // おみくじの結果のタイトル文
-    kekkaSetsumei: '残念またがんば', // おみくじの結果につける説明文
+    kekkaSetsumei: '大凶かー。残念またがんば', // おみくじの結果につける説明文
     kekkaImage: 'red1500.jpg' //おみくじの結果に表示する画像
   },
    
   
   { //小吉の設定
     kekkaTitle: '小吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '惜しいまた頑張って', // おみくじの結果につける説明文
+    kekkaSetsumei: '小吉。惜しいまた頑張って', // おみくじの結果につける説明文
     kekkaImage: '1000kyu12.jpg' //おみくじの結果に表示する画像
   },
     { //小吉の設定
     kekkaTitle: '小吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '惜しいまた頑張って', // おみくじの結果につける説明文
+    kekkaSetsumei: '小吉。惜しいまた頑張って', // おみくじの結果につける説明文
     kekkaImage: '1000kyu12.jpg' //おみくじの結果に表示する画像
   },
     { //小吉の設定
     kekkaTitle: '小吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '惜しいまた頑張って', // おみくじの結果につける説明文
+    kekkaSetsumei: '小吉。惜しいまた頑張って', // おみくじの結果につける説明文
     kekkaImage: '1000kyu12.jpg' //おみくじの結果に表示する画像
   },
     { //小吉の設定
     kekkaTitle: '小吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '惜しいまた頑張って', // おみくじの結果につける説明文
+    kekkaSetsumei: '小吉。惜しいまた頑張って', // おみくじの結果につける説明文
     kekkaImage: '1000kyu12.jpg' //おみくじの結果に表示する画像
   },
     { // 大吉の設定
     kekkaTitle: '大吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '超ラッキーだねぇ', // おみくじの結果につける説明文
+    kekkaSetsumei: '大吉です。超ラッキーだねぇ', // おみくじの結果につける説明文
     kekkaImage: 'keiseiandiehapikeikyu.jpg' //おみくじの結果に表示する画像
   },
       { // 大吉の設定
     kekkaTitle: '大吉', // おみくじの結果のタイトル文
-    kekkaSetsumei: '超ラッキーだねぇ', // おみくじの結果につける説明文
+    kekkaSetsumei: '大吉です。超ラッキーだねぇ', // おみくじの結果につける説明文
     kekkaImage: 'keiseiandiehapikeikyu.jpg' //おみくじの結果に表示する画像
   }
 ];
 
 //ルーレットの中身
-let omikujiRoulette=[
-'keisekyrukyara.JPG',
-'hokusou.jpg',
-'mincuru.jpg',
-'sidayama.jpg'
+let omikujiRoulette = [
+  'IMG_0344.JPG',
+  'IMG_0360.JPG',
+  'IMG_0487.JPG',
 ];
 
 //ルーレットを表示する関数
